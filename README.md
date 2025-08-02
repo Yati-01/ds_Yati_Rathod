@@ -4,7 +4,9 @@ This project explores the relationship between market sentiment (Bitcoin Fear & 
 ## 🧩 Datasets Used
 
 1.Bitcoin Fear & Greed Index
+
 2.Hyperliquid Trader Stats
+
 ---
 
 ## 🧠 Analysis Highlights
